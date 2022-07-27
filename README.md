@@ -8,7 +8,7 @@ features or corrections are welcome!
     Docker
 # Clone Project
 ```
-Clone git@github.com:knoldus/restAPI-using-webflux.git and import project
+Clone git@github.com:knoldus/cqrs-design-pattern-based-application.git and import project
 mvn clean install
 docker-compose up --build
 ```
